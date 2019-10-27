@@ -20,6 +20,7 @@
   "homepage": "https://github.com/szczepaniakmichal/warsawjs-workshop-37-typescript#readme",
   "dependencies": {
     "is-letter": "^1.2.1",
+    "is-not-letter": "0.0.1",
     "typescript": "^3.6.4"
   },
   "devDependencies": {
