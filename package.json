@@ -1,0 +1,23 @@
+{
+  "name": "warsawjs-workshop-37-typescript",
+  "version": "1.0.0",
+  "description": "workshop_37_ts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node p1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szczepaniakmichal/warsawjs-workshop-37-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szczepaniakmichal/warsawjs-workshop-37-typescript/issues"
+  },
+  "homepage": "https://github.com/szczepaniakmichal/warsawjs-workshop-37-typescript#readme",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
+}
