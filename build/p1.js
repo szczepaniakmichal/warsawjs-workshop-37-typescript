@@ -1,4 +1,3 @@
-"use strict";
 function p1(a) {
     // [ 1, 2, 10 ] => [ '(1) (2) (3)' ]
     if (a) { // jesli a jest true to wiadomo ze  nie jest null lub cos czego sie nie spodziewamy
