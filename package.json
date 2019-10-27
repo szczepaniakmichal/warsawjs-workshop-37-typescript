@@ -4,7 +4,8 @@
   "description": "workshop_37_ts",
   "main": "index.js",
   "scripts": {
-    "start": "node p1.js",
+    "start": "node build/p1.js",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
